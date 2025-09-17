@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/afrid49/afrid49/main/banner.png)
 # Hi there 👋 I'm Afrid  
 
 🚀 Building scalable apps with **NestJS** & **Next.js** & **java  
