@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/afrid49/afrid49/main/banner.png)
+<img width="1536" height="1024" alt="ChatGPT Image Sep 17, 2025, 11_02_03 PM" src="https://github.com/user-attachments/assets/39afb461-d8fd-4015-9c7d-c997761ee05e" />
 # Hi there 👋 I'm Afrid  
 
 🚀 Building scalable apps with **NestJS** & **Next.js** & **java  
