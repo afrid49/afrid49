@@ -1,274 +1,322 @@
 <div align="center">
 
-# `ABU NAYEM MD ARMAN`
+# Abu Nayem Md Arman
 
-### Full-Stack Developer · Software Engineer · CSE Student
+### Software Engineer · Full-Stack Developer · CSE Graduate
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+modern+full-stack+applications;Designing+scalable+backend+systems;Exploring+AI%2C+ML+%26+HCI;Turning+ideas+into+working+software" alt="Typing SVG" />
+**Building modern web applications with strong backend architecture, clean APIs, and practical user experiences.**
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/afrid49)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/md-afrid-6a388b381/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:md.afrid4849@gmail.com)
+<a href="https://github.com/afrid49">
+  <img src="https://img.shields.io/badge/GitHub-afrid49-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/md-afrid-6a388b381/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abu%20Nayem%20Md%20Arman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:md.afrid4849@gmail.com">
+  <img src="https://img.shields.io/badge/Email-md.afrid4849%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=afrid49&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## `> whoami`
+## 👨‍💻 About Me
 
-I'm **Abu Nayem Md Arman**, a final-year **Computer Science & Engineering student at American International University-Bangladesh (AIUB)** and a **Software Engineer with hands-on full-stack development experience**.
+I'm a **CSE graduate from American International University-Bangladesh (AIUB)** focused on **full-stack and backend development**.
 
-I enjoy building systems where the frontend, backend, database, and business logic work together as one product.
+I enjoy turning ideas into complete software systems — from database design and REST APIs to responsive frontend interfaces and authentication workflows.
 
-My current focus is on:
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  FULL-STACK DEVELOPMENT                                     │
-│                                                             │
-│  Next.js ─────── NestJS ─────── PostgreSQL ─────── Prisma  │
-│                                                             │
-│  Backend Architecture · REST APIs · Authentication         │
-│  Database Design · Role-Based Access · System Design       │
-│                                                             │
-│  AI / ML · HCI · IoT · Research                             │
-└─────────────────────────────────────────────────────────────┘
-```
+I recently worked as a **Software Engineer Intern at XR Interactive**, where I contributed to **EventX**, a full-stack event management platform built with **Next.js, NestJS, PostgreSQL, and Prisma**.
 
 * 🎓 **BSc in Computer Science & Engineering — AIUB**
-* 💻 **Software Engineer Intern — XR Interactive**
-* 🚀 Building **EventX**, a full-stack event management platform
-* 🧠 Published IEEE research in **ECG anomaly detection**
-* 🔬 Interested in **backend engineering, system design, AI/ML & HCI**
-* 🌱 Currently exploring **DevOps, microservices & scalable architectures**
+* 📅 University examinations completed — **September 2026**
+* 💼 **Software Engineer Intern — XR Interactive**
+* 🚀 Building: **EventX — Full-Stack Event Management Platform**
+* 🧩 Interested in: **Backend Engineering · Full-Stack Development · System Design**
+* 🔬 Research: **Machine Learning & Human–Computer Interaction**
+* 📍 Bangladesh
 
 ---
 
-# `01 / Featured Work`
+## 💼 Professional Experience
 
-## ⚡ EventX
+### Software Engineer Intern — XR Interactive
 
-### `Full-Stack Event Management Platform`
+**Full-Stack Development · EventX**
 
-**EventX** is the primary full-stack system I developed during my software engineering internship at **XR Interactive**.
+Worked on the development of a full-stack event management platform covering:
 
-It covers the complete event lifecycle — from organization and event creation to registration, QR-based attendance, feedback, and certificates.
-
-**Architecture**
-
-```text
-Next.js Frontend
-       │
-       ▼
-   REST API
-       │
-       ▼
-NestJS Backend
-       │
-       ▼
-Prisma ORM
-       │
-       ▼
-PostgreSQL
-```
-
-**Key Features**
-
-* 🔐 Authentication & authorization
-* 🏢 Organization & membership management
-* 📅 Event creation, editing & lifecycle management
-* 🎟️ Participant registration
-* 📱 Unique QR-based check-in
-* 👥 Participant & registration management
-* 📝 Post-attendance feedback
-* 🏆 Certificate management
-* 🛡️ Role-based access control
-* 📊 Organizer dashboards
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `NestJS` `Prisma` `PostgreSQL` `REST API`
-
-**Repository →**
-[github.com/afrid49/EventX](https://github.com/afrid49/EventX)
+* RESTful backend APIs with **NestJS**
+* Modern frontend development with **Next.js & React**
+* PostgreSQL database architecture
+* Prisma ORM and database migrations
+* JWT-based authentication
+* Role-based access control
+* Organization and membership management
+* Event creation, editing and management
+* Participant registration
+* Individual QR-code check-in
+* Event feedback system
+* Certificate management
+* API testing and debugging
+* Git-based development workflow
 
 ---
 
-## 🧠 IEEE Research
-
-### `Attention-Enhanced BiLSTM Autoencoder for ECG Anomaly Detection`
-
-Research work focused on applying deep learning techniques to **ECG anomaly detection** using an attention-enhanced BiLSTM autoencoder architecture.
-
-**Areas**
-
-`Deep Learning` · `BiLSTM` · `Autoencoders` · `Attention Mechanism` · `ECG Analysis`
-
-📄 **Published on IEEE Xplore**
-
-[View IEEE Publication →](https://ieeexplore.ieee.org/document/11661859)
-
----
-
-## 🧤 SmartGuardians
-
-### `Wearable Smart Glove for Real-Time Gesture-to-Message Communication`
-
-An HCI/IoT system designed to translate predefined hand gestures into meaningful messages for real-time communication.
-
-**Hardware**
-
-`Arduino Uno` · `Hall Sensors` · `MPU6050` · `16×2 LCD` · `Buzzer`
-
-**System capabilities**
-
-* Gesture recognition
-* Emergency detection
-* Fall detection
-* Panic-motion detection
-* User-status monitoring
-* Real-time message display
-
----
-
-# `02 / Tech Stack`
-
-### `Languages`
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge\&logo=csharp\&logoColor=512BD4)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge\&logo=php\&logoColor=777BB4)
-
-### `Frontend`
-
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-
-### `Backend & Database`
-
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge\&logo=nestjs\&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge\&logo=prisma\&logoColor=5A67D8)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-
-### `Tools`
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
-
----
-
-# `03 / Engineering Interests`
-
-```text
-┌─ SOFTWARE ENGINEERING
-│  ├── Full-Stack Web Development
-│  ├── Backend Architecture
-│  ├── REST API Design
-│  ├── Authentication & Authorization
-│  ├── Database Design
-│  └── System Design
-│
-├─ ARTIFICIAL INTELLIGENCE
-│  ├── Machine Learning
-│  ├── Deep Learning
-│  ├── Anomaly Detection
-│  └── Biomedical Signal Analysis
-│
-└─ HUMAN-COMPUTER INTERACTION
-   ├── HCI
-   ├── IoT
-   ├── Wearable Systems
-   └── Real-Time Interaction
-```
-
----
-
-# `04 / Other Projects`
-
-### 📚 School Management System
-
-**C# · Windows Forms · SQL Server**
-
-Desktop-based management system with role-based access for administrators, teachers, students, and medical staff.
-
-[View Repository →](https://github.com/afrid49/SchoolManagementSystem-C-project)
-
----
-
-### 🚌 Bus Ticket Management System
-
-**Java · OOP · File I/O**
-
-A Java-based ticket management system implementing object-oriented programming concepts, route management, seat booking, cancellation, and ticket generation.
-
-[View Repository →](https://github.com/afrid49/bus-ticket-management-system-Java-project)
-
----
-
-### 🌐 Learning Platform
-
-**Next.js · NestJS · PostgreSQL**
-
-Full-stack educational platform focused on role-based access, teacher-class management, protected routes, and content management.
-
----
-
-# `05 / GitHub Activity`
+# 🚀 Featured Project
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=afrid49&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="170"/>
+## EventX
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid49&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+### Full-Stack Event Management Platform
+
+**Next.js · React · TypeScript · NestJS · PostgreSQL · Prisma · JWT**
+
+<a href="https://github.com/afrid49/EventX">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
+EventX is a full-stack platform designed to manage the complete lifecycle of events — from organization and event creation to participant registration, QR-based attendance, feedback, and certificates.
+
+### Core Features
+
+| Area              | Features                                   |
+| ----------------- | ------------------------------------------ |
+| 🔐 Authentication | Registration · Login · JWT                 |
+| 👥 Organizations  | Members · Roles · Permissions              |
+| 📅 Events         | Create · Edit · Delete · Publish · Manage  |
+| 🎟️ Registration  | Participant registration · Status tracking |
+| 📱 Check-in       | Individual QR-based attendance             |
+| ⭐ Feedback        | Post-attendance ratings & comments         |
+| 🏆 Certificates   | Certificate management                     |
+| 🛡️ Security      | Role-based access control                  |
+| 🗄️ Database      | PostgreSQL + Prisma                        |
+
+### Architecture
+
+```text
+                    ┌─────────────────────┐
+                    │      Next.js        │
+                    │   React Frontend    │
+                    └──────────┬──────────┘
+                               │
+                         REST API / JWT
+                               │
+                    ┌──────────▼──────────┐
+                    │       NestJS        │
+                    │    Backend API      │
+                    └──────────┬──────────┘
+                               │
+                         Prisma ORM
+                               │
+                    ┌──────────▼──────────┐
+                    │     PostgreSQL      │
+                    │      Database       │
+                    └─────────────────────┘
+```
+
+---
+
+# 🧠 Research & Publication
+
+### Attention-Enhanced BiLSTM Autoencoder for ECG Anomaly Detection
+
+Research focused on applying deep learning techniques for ECG anomaly detection using an **attention-enhanced BiLSTM autoencoder architecture**.
+
+**Published on IEEE Xplore**
+
+<a href="https://ieeexplore.ieee.org/document/11661859">
+<img src="https://img.shields.io/badge/IEEE%20Xplore-Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+</a>
+
+---
+
+# 🛠️ Technical Skills
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### Databases & ORM
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+
+### Data & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+### Tools & Development
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### Hardware & HCI
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT-0A0A0A?style=flat-square&logo=internetofthings&logoColor=white" />
+</p>
+
+---
+
+# 📂 Selected Projects
+
+### 🏫 School Management System
+
+**C# · Windows Forms · SQL Server · LocalDB**
+
+Desktop-based management system with role-based authentication and separate workflows for administrators, teachers, students, and medical staff.
+
+<a href="https://github.com/afrid49/SchoolManagementSystem-C-project">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🧠 ECG Anomaly Detection
+
+**Python · Machine Learning · BiLSTM · Autoencoder**
+
+Attention-enhanced BiLSTM autoencoder research project for detecting anomalies in ECG signals.
+
+<a href="https://github.com/afrid49/ML_anomoly_machine">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🎫 Bus Ticket Management System
+
+**Java · OOP · File/Data Management**
+
+Java-based ticket management application demonstrating object-oriented programming and application-level data handling.
+
+<a href="https://github.com/afrid49/bus-ticket-management-system-Java-project">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+---
+
+### 🔊 Audio Amplifier Device
+
+**Electronics · Circuit Design · Hardware**
+
+Hardware project focused on designing and implementing an audio amplification system.
+
+<a href="https://github.com/afrid49/Audio-Amplifier-Device-project">
+<img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+---
+
+# 🧩 What I Work With
+
+```text
+Frontend        →  Next.js · React · TypeScript
+Backend         →  NestJS · Node.js · REST APIs
+Database        →  PostgreSQL · Prisma · SQL Server
+Authentication  →  JWT · RBAC
+Programming     →  TypeScript · JavaScript · Java · C# · Python
+ML / Data       →  Python · NumPy · Pandas · Scikit-learn
+Tools           →  Git · GitHub · Postman · VS Code
+HCI / IoT       →  Arduino · Sensors · Embedded Systems
+```
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrid49&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=afrid49&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid49&layout=compact&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-# `06 / Currently`
+# 🎯 Current Focus
 
 ```text
-[████████████████████░░]  Full-Stack Development
-[█████████████████░░░░░]  Backend Engineering
-[███████████████░░░░░░░]  System Design
-[██████████████░░░░░░░░]  DevOps
-[████████████░░░░░░░░░░]  AI / ML
+01  Full-Stack Engineering
+02  Backend Architecture
+03  REST API Design
+04  Database Design
+05  Authentication & Authorization
+06  System Design
+07  Clean & Maintainable Code
 ```
 
-> Building real software, learning continuously, and turning ideas into systems that work.
+I'm particularly interested in opportunities where I can contribute to **real software products**, strengthen my engineering skills, and continue growing across the full development lifecycle.
 
 ---
 
 <div align="center">
 
-### `Let's build something meaningful.`
+## Let's Build Something Useful.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/md-afrid-6a388b381/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:md.afrid4849@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-afrid49-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/afrid49)
+**Software Engineering · Full-Stack Development · Backend Engineering**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=afrid49&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+<a href="mailto:md.afrid4849@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-afrid-6a388b381/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" />
 
 </div>
