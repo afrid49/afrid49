@@ -54,6 +54,8 @@ Worked on the development of a full-stack event management platform covering:
 
 * RESTful backend APIs with **NestJS**
 * Modern frontend development with **Next.js & React**
+* **TypeScript** application development
+* **Node.js** backend development
 * PostgreSQL database architecture
 * Prisma ORM and database migrations
 * JWT-based authentication
@@ -77,7 +79,7 @@ Worked on the development of a full-stack event management platform covering:
 
 ### Full-Stack Event Management Platform
 
-**Next.js · React · TypeScript · NestJS · PostgreSQL · Prisma · JWT**
+**Next.js · React · TypeScript · NestJS · Node.js · PostgreSQL · Prisma · JWT**
 
 <a href="https://github.com/afrid49/EventX">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -145,11 +147,14 @@ Research focused on applying deep learning techniques for ECG anomaly detection 
 ### Languages
 
 <p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
@@ -158,6 +163,7 @@ Research focused on applying deep learning techniques for ECG anomaly detection 
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
@@ -167,7 +173,8 @@ Research focused on applying deep learning techniques for ECG anomaly detection 
 <p>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=swagger&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
 
@@ -177,6 +184,7 @@ Research focused on applying deep learning techniques for ECG anomaly detection 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server%20LocalDB-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
@@ -186,6 +194,16 @@ Research focused on applying deep learning techniques for ECG anomaly detection 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/BiLSTM-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Autoencoder-673AB7?style=flat-square&logoColor=white" />
+</p>
+
+### Desktop Development
+
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
 ### Tools & Development
@@ -195,6 +213,7 @@ Research focused on applying deep learning techniques for ECG anomaly detection 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ### Hardware & HCI
@@ -202,6 +221,7 @@ Research focused on applying deep learning techniques for ECG anomaly detection 
 <p>
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/IoT-0A0A0A?style=flat-square&logo=internetofthings&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
 ---
@@ -210,7 +230,7 @@ Research focused on applying deep learning techniques for ECG anomaly detection 
 
 ### 🏫 School Management System
 
-**C# · Windows Forms · SQL Server · LocalDB**
+**C# · .NET · Windows Forms · SQL Server · LocalDB**
 
 Desktop-based management system with role-based authentication and separate workflows for administrators, teachers, students, and medical staff.
 
@@ -259,14 +279,15 @@ Hardware project focused on designing and implementing an audio amplification sy
 # 🧩 What I Work With
 
 ```text
-Frontend        →  Next.js · React · TypeScript
-Backend         →  NestJS · Node.js · REST APIs
-Database        →  PostgreSQL · Prisma · SQL Server
+Languages       →  C · C++ · C# · Java · JavaScript · TypeScript · Python · PHP · SQL
+Frontend        →  Next.js · React · HTML · CSS · Three.js
+Backend         →  NestJS · Node.js · .NET · REST APIs
+Database        →  PostgreSQL · MySQL · SQL Server · LocalDB · Prisma
 Authentication  →  JWT · RBAC
-Programming     →  TypeScript · JavaScript · Java · C# · Python
-ML / Data       →  Python · NumPy · Pandas · Scikit-learn
-Tools           →  Git · GitHub · Postman · VS Code
-HCI / IoT       →  Arduino · Sensors · Embedded Systems
+ML / Data       →  Python · NumPy · Pandas · Scikit-learn · BiLSTM · Autoencoders
+Desktop         →  C# · .NET · Windows Forms
+Tools           →  Git · GitHub · Postman · VS Code · pgAdmin
+HCI / IoT       →  Arduino · Hall Sensors · MPU6050 · LCD · Embedded Systems
 ```
 
 ---
