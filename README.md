@@ -1,116 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:8B5CF6,50:A855F7,75:FF2E97,100:0B0F19&height=200&section=header&text=ABU%20NAYEM%20MD%20ARMAN&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=%E2%9F%A9%20FULL-STACK%20DEVELOPER%20%E2%80%A2%20CS%20STUDENT%20%E2%80%A2%20SOFTWARE%20ENGINEER%20%E2%9F%AA&descAlignY=60&descSize=16&animation=fadeIn&stroke=00F5FF&strokeWidth=1"/>
+<!-- ═══════════════════ HOLOGRAPHIC HEADER ═══════════════════ -->
 
-<a href="https://github.com/afrid49">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+developer+environment...;%3E+Building+Modern+Web+Applications;%3E+Designing+Scalable+Backend+Systems;%3E+Turning+Ideas+Into+Real+Projects;%3E+Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:1a1040,60:6d28d9,85:0ea5e9,100:22d3ee&height=220&section=header&text=ABU%20NAYEM%20MD%20ARMAN&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=%E2%96%B8%20FULL-STACK%20ENGINEER%20%E2%80%A2%20SYSTEMS%20BUILDER%20%E2%80%A2%20CS%20STUDENT%20%E2%97%82&descAlignY=60&descSize=15&animation=twinkling&stroke=22d3ee&strokeWidth=1"/>
+
+<!-- ═══════════════════ LIVE TERMINAL ═══════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=%E2%96%B8+SYSTEM+ONLINE+%E2%80%94+Welcome+to+my+digital+workspace;%E2%96%B8+Architecting+scalable+web+applications;%E2%96%B8+Engineering+high-performance+backend+systems;%E2%96%B8+Translating+ideas+into+production-grade+code;%E2%96%B8+BUILD+%E2%86%92+LEARN+%E2%86%92+EVOLVE" alt="Terminal"/>
 
 <br>
 
+<!-- ═══════════════════ HUD STAT BAR ═══════════════════ -->
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/%E2%97%8F_SYSTEM-ONLINE-22d3ee?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/%E2%97%8F_STATUS-OPEN_TO_WORK-10b981?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/%E2%97%8F_MODE-FULLSTACK-8b5cf6?style=for-the-badge&labelColor=0a0e27"/>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════ SOCIAL MATRIX ═══════════════════ -->
+
 <a href="https://www.linkedin.com/in/md-afrid-6a388b381/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/>
 </a>
 <a href="mailto:md.afrid4849@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27"/>
 </a>
 <a href="https://github.com/afrid49">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
 </a>
 <a href="https://ieeexplore.ieee.org/document/11661859">
-  <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0B0F19"/>
+  <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0a0e27"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=afrid49&style=for-the-badge&color=00F5FF&labelColor=0B0F19&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/afrid49?style=for-the-badge&color=A855F7&labelColor=0B0F19&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-10B981?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://komarev.com/ghpvc/?username=afrid49&style=for-the-badge&color=22d3ee&labelColor=0a0e27&label=SIGNAL+VISITS"/>
+<img src="https://img.shields.io/github/followers/afrid49?style=for-the-badge&color=8b5cf6&labelColor=0a0e27&label=NODES&logo=github"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=3"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        IDENTITY CORE                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `> whoami_`
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" width="32"/>
+  &nbsp; <code>[ IDENTITY_CORE ]</code>
+</h1>
 
 </div>
 
-```bash
-╭─[ afrid49@dev-machine ]──────────────────────────────────────────╮
-│                                                                  │
-│   ╭─ USER ────────╮  ╭─ ROLE ──────────────────────────────╮     │
-│   │ Abu Nayem     │  │ Full-Stack Developer / CS Student   │     │
-│   │ Md Arman      │  │ Software Engineer                   │     │
-│   ╰───────────────╯  ╰─────────────────────────────────────╯     │
-│                                                                  │
-│   ╭─ LOCATION ────╮  ╭─ EDUCATION ─────────────────────────╮     │
-│   │ Dhaka, BD     │  │ BSc in Computer Science (Final Yr)  │     │
-│   ╰───────────────╯  ╰─────────────────────────────────────╯     │
-│                                                                  │
-│   ╭─ STACK ───────────────────────────────────────────────╮      │
-│   │ › Backend   :: NestJS · Node.js · REST APIs           │      │
-│   │ › Frontend  :: Next.js · React · TypeScript           │      │
-│   │ › Database  :: PostgreSQL · MySQL · Prisma            │      │
-│   ╰───────────────────────────────────────────────────────╯      │
-│                                                                  │
-│   ╭─ STATUS ──────────────────────────────────────────────╮      │
-│   │ ● ONLINE  ·  Building · Learning · Improving          │      │
-│   ╰───────────────────────────────────────────────────────╯      │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+```yaml
+# ╔══════════════════════════════════════════════════════════════════╗
+# ║                    ▓▓  OPERATOR PROFILE  ▓▓                      ║
+# ╚══════════════════════════════════════════════════════════════════╝
+
+  designation   :  Abu Nayem Md Arman
+  callsign      :  afrid49
+  specialization:  Full-Stack Development  ·  Backend Architecture
+  clearance     :  Final-Year BSc Computer Science
+  coordinates   :  Dhaka, Bangladesh  [ 23.8103°N, 90.4125°E ]
+
+# ──────────────────────────────────────────────────────────────────
+#                       ▓▓  CORE MODULES  ▓▓
+# ──────────────────────────────────────────────────────────────────
+
+  backend       :  NestJS  ▸  Node.js  ▸  REST APIs
+  frontend      :  Next.js  ▸  React  ▸  TypeScript
+  database      :  PostgreSQL  ▸  MySQL  ▸  Prisma
+  devops        :  Docker  ▸  Git  ▸  CI/CD  [learning]
+
+# ──────────────────────────────────────────────────────────────────
+#                        ▓▓  DIRECTIVE  ▓▓
+# ──────────────────────────────────────────────────────────────────
+
+  mission       :  Build clean, scalable, production-grade software
+  philosophy    :  Ship → Measure → Iterate → Improve
+  status        :  ● ACTIVE  ·  ● LEARNING  ·  ● BUILDING
 ```
 
-I'm a final-year **Computer Science** student obsessed with building **clean, scalable, and practical software**.
+I engineer **full-stack applications** with an obsession for clean architecture, scalable backends, and interfaces that feel alive. Every line of code is a step toward mastery — currently deep-diving into **DevOps pipelines, microservices, and distributed system design**.
 
-My core focus is **full-stack web development** — backend architecture, database design, REST APIs, authentication, and modern frontend engineering.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=3"/>
 
-Currently leveling up in **DevOps · Docker · Microservices · System Design**.
-
-```text
-   ┌─────────┐      ┌─────────┐      ┌─────────┐
-   │  BUILD  │ ───► │  LEARN  │ ───► │ IMPROVE │
-   └─────────┘      └─────────┘      └─────────┘
-        ▲                                  │
-        └──────────── REPEAT ◄─────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ARSENAL / STACK                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# ⚡ `TECH_STACK`
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="32"/>
+  &nbsp; <code>[ ARSENAL ]</code>
+</h1>
 
-</div>
+<br>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
 
-### `// LANGUAGES`
+**`LANGUAGES`**
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,php,cs&theme=dark"/>
 
-### `// FRONTEND`
+</td>
+<td align="center" width="25%">
+
+**`FRONTEND`**
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark"/>
 
-### `// BACKEND & DATABASE`
+</td>
+<td align="center" width="25%">
+
+**`BACKEND`**
 
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,prisma&theme=dark"/>
 
-### `// TOOLS & PLATFORMS`
+</td>
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark"/>
+**`DEVOPS`**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=3"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    PROJECTS · DEPLOYED MODULES              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🚀 `FEATURED_PROJECTS`
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32"/>
+  &nbsp; <code>[ DEPLOYED_MODULES ]</code>
+</h1>
 
 </div>
+
+<br>
 
 <table>
 <tr>
@@ -118,33 +165,39 @@ Currently leveling up in **DevOps · Docker · Microservices · System Design**.
 
 <div align="center">
 
-### 🎟️ `EVENTX`
+### ⚡ `EVENTX`
 
-<img src="https://img.shields.io/badge/FULL--STACK-00F5FF?style=flat-square&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/INTERNSHIP-A855F7?style=flat-square&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/TYPE-FULLSTACK-22d3ee?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/ORIGIN-INTERNSHIP-8b5cf6?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/STATUS-SHIPPED-10b981?style=flat-square&labelColor=0a0e27"/>
 
 </div>
 
-Full-stack event management platform built during my Software Engineering internship at **XR Interactive**.
+> Full-stack event management platform engineered during Software Engineering internship at **XR Interactive**.
 
-**`STACK`**
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,postgres,prisma&theme=dark" height="34"/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,postgres,prisma&theme=dark" height="36"/>
+<details>
+<summary><b>▶ MODULE CAPABILITIES</b></summary>
 
-**`FEATURES`**
+<br>
 
-- 🔐 Authentication & authorization
-- 🏢 Organization management
-- 📅 Event creation & management
-- 🎫 Event registration
-- 📱 QR-based check-in
-- 📜 Certificate management
-- ⭐ Event feedback system
-- 👥 Participant management
-- 🛡️ Role-based access control
+- 🔐 **Auth layer** — JWT authentication & role-based authorization
+- 🏢 **Organization hub** — multi-tenant management
+- 📅 **Event engine** — create, schedule, publish events
+- 🎫 **Registration flow** — attendee signup & tracking
+- 📱 **QR check-in** — instant on-site validation
+- 📜 **Certificate system** — automated generation & delivery
+- ⭐ **Feedback matrix** — post-event analytics
+- 👥 **Participant control** — full lifecycle management
+- 🛡️ **RBAC** — granular permission architecture
+
+</details>
+
+<br>
 
 <a href="https://github.com/afrid49/EventX">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=0B0F19&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/%E2%96%B8_LAUNCH_PROJECT-22d3ee?style=for-the-badge&logo=github&logoColor=0a0e27&labelColor=0a0e27"/>
 </a>
 
 </td>
@@ -152,29 +205,35 @@ Full-stack event management platform built during my Software Engineering intern
 
 <div align="center">
 
-### 🧠 `ECG ANOMALY DETECTION`
+### 🧠 `ECG_ANOMALY_DETECTOR`
 
-<img src="https://img.shields.io/badge/IEEE-PUBLISHED-00629B?style=flat-square&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/RESEARCH-FF2E97?style=flat-square&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/TYPE-RESEARCH-00629B?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/PUBLISHED-IEEE-ec4899?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/STATUS-PUBLISHED-10b981?style=flat-square&labelColor=0a0e27"/>
 
 </div>
 
-Attention-Enhanced **BiLSTM Autoencoder** for ECG Anomaly Detection.
+> **Attention-Enhanced BiLSTM Autoencoder** — published IEEE research on cardiac anomaly detection.
 
-**`STACK`**
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="34"/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="36"/>
+<details>
+<summary><b>▶ RESEARCH SCOPE</b></summary>
 
-**`FOCUS`**
+<br>
 
-- 🧠 Deep learning architectures
-- ❤️ ECG signal analysis
-- 📊 Anomaly detection
-- 🔬 Research & experimentation
-- 📄 IEEE publication
+- 🧠 **Deep learning** — attention-augmented BiLSTM
+- ❤️ **ECG signal processing** — real-time cardiac analysis
+- 📊 **Anomaly detection** — unsupervised reconstruction errors
+- 🔬 **Experimental rigor** — benchmarked on clinical datasets
+- 📄 **IEEE published** — peer-reviewed contribution
+
+</details>
+
+<br>
 
 <a href="https://ieeexplore.ieee.org/document/11661859">
-<img src="https://img.shields.io/badge/IEEE_PUBLICATION-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/%E2%96%B8_VIEW_PUBLICATION-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0a0e27"/>
 </a>
 
 </td>
@@ -185,56 +244,64 @@ Attention-Enhanced **BiLSTM Autoencoder** for ECG Anomaly Detection.
 
 <div align="center">
 
-### 📚 `LEARNING PLATFORM`
+### 📚 `LEARNING_PLATFORM`
 
-<img src="https://img.shields.io/badge/FULL--STACK-00F5FF?style=flat-square&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/EDTECH-10B981?style=flat-square&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/TYPE-EDTECH-22d3ee?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-10b981?style=flat-square&labelColor=0a0e27"/>
 
 </div>
 
-A web-based learning platform designed for teachers and students with role-based access.
+> Role-based educational platform with isolated dashboards for teachers and students.
 
-**`STACK`**
+<img src="https://skillicons.dev/icons?i=nestjs,nextjs,postgres&theme=dark" height="34"/>
 
-<img src="https://skillicons.dev/icons?i=nestjs,nextjs,postgres&theme=dark" height="36"/>
+<details>
+<summary><b>▶ MODULE CAPABILITIES</b></summary>
 
-**`FEATURES`**
+<br>
 
-- 🔐 Authentication system
-- 👨‍🏫 Teacher management
-- 🎓 Student management
-- 📚 Content management
-- 🛡️ Protected routes
-- 🗄️ Database integration
+- 🔐 Auth & session management
+- 👨‍🏫 Teacher control panel
+- 🎓 Student learning dashboard
+- 📚 Dynamic content delivery
+- 🛡️ Protected route architecture
+- 🗄️ Relational data modeling
+
+</details>
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 🚌 `BUS TICKET SYSTEM`
+### 🚌 `BUS_TICKET_SYSTEM`
 
-<img src="https://img.shields.io/badge/JAVA-A855F7?style=flat-square&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/OOP-FF2E97?style=flat-square&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/TYPE-OOP-8b5cf6?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/LANG-JAVA-ec4899?style=flat-square&labelColor=0a0e27"/>
 
 </div>
 
-Console-based ticket booking and management system built around object-oriented programming principles.
+> Console-based ticket booking engine built on strict OOP principles.
 
-**`STACK`**
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="34"/>
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="36"/>
+<details>
+<summary><b>▶ MODULE CAPABILITIES</b></summary>
 
-**`FEATURES`**
+<br>
 
-- 🎫 Ticket booking
-- 💺 Seat management
+- 🎫 Ticket booking flow
+- 💺 Seat allocation engine
 - 🚌 Route management
-- ❌ Cancellation
-- 📄 Ticket generation
+- ❌ Cancellation handling
+- 📄 Auto ticket generation
+
+</details>
+
+<br>
 
 <a href="https://github.com/afrid49/bus-ticket-management-system-Java-project">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/%E2%96%B8_VIEW_CODE-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
 </a>
 
 </td>
@@ -245,20 +312,21 @@ Console-based ticket booking and management system built around object-oriented 
 
 <div align="center">
 
-### 🤖 `ML ANOMALY DETECTION`
+### 🤖 `ML_ANOMALY_ENGINE`
 
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-FF2E97?style=flat-square&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/TYPE-ML-ec4899?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-22d3ee?style=flat-square&labelColor=0a0e27"/>
 
 </div>
 
-Machine learning project focused on detecting anomalies and analyzing unusual patterns in data.
+> Machine learning pipeline for detecting anomalies and unusual data patterns.
 
-**`STACK`**
+<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy&theme=dark" height="34"/>
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy&theme=dark" height="36"/>
+<br>
 
 <a href="https://github.com/afrid49/ML_anomoly_machine">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/%E2%96%B8_VIEW_CODE-ec4899?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
 </a>
 
 </td>
@@ -266,210 +334,308 @@ Machine learning project focused on detecting anomalies and analyzing unusual pa
 
 <div align="center">
 
-### 🔊 `AUDIO AMPLIFIER DEVICE`
+### 🔊 `AUDIO_AMPLIFIER`
 
-<img src="https://img.shields.io/badge/HARDWARE-10B981?style=flat-square&labelColor=0B0F19"/>
-<img src="https://img.shields.io/badge/CIRCUIT_DESIGN-00F5FF?style=flat-square&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/TYPE-HARDWARE-10b981?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/DOMAIN-SIGNALS-22d3ee?style=flat-square&labelColor=0a0e27"/>
 
 </div>
 
-Designed and simulated an audio amplifier circuit with a focus on signal processing and circuit analysis.
+> Simulated audio amplifier circuit — signal processing & circuit analysis.
 
-**`FOCUS`**
+<br>
 
-<img src="https://img.shields.io/badge/CIRCUIT_DESIGN-0B0F19?style=for-the-badge&labelColor=00F5FF"/>
-<img src="https://img.shields.io/badge/SIGNAL_PROCESSING-0B0F19?style=for-the-badge&labelColor=A855F7"/>
+<img src="https://img.shields.io/badge/CIRCUIT_DESIGN-0a0e27?style=for-the-badge&labelColor=22d3ee"/>
+<img src="https://img.shields.io/badge/SIGNAL_PROCESSING-0a0e27?style=for-the-badge&labelColor=8b5cf6"/>
+
+<br><br>
 
 <a href="https://github.com/afrid49/Audio-Amplifier-Device-project">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/%E2%96%B8_VIEW_CODE-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=3"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     SYSTEM ARCHITECTURE                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🧩 `ARCHITECTURE`
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="32"/>
+  &nbsp; <code>[ SYSTEM_ARCHITECTURE ]</code>
+</h1>
 
 </div>
 
 ```text
-        ┌────────────────────┐        ┌────────────────────┐
-        │   🌐  WEB APPS     │        │   ⚙️  BACKENDS     │
-        │                    │        │                    │
-        │  Next.js · React   │        │  NestJS · Node.js  │
-        └─────────┬──────────┘        └─────────┬──────────┘
-                  │                             │
-                  └──────────────┬──────────────┘
-                                 ▼
-                    ┌────────────────────────┐
-                    │   🗄️  DATA LAYER       │
-                    │                        │
-                    │  PostgreSQL · MySQL    │
-                    │  Prisma ORM            │
-                    └───────────┬────────────┘
-                                ▼
-                    ┌────────────────────────┐
-                    │   🚀  DEPLOYMENT       │
-                    │                        │
-                    │  Git · Docker · CI/CD  │
-                    └────────────────────────┘
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                                                                   ║
+    ║                     ▓▓  CLIENT LAYER  ▓▓                          ║
+    ║                                                                   ║
+    ║        ┌────────────────────────┐  ┌────────────────────────┐    ║
+    ║        │    ◈  WEB APPS         │  │    ◈  INTERFACES       │    ║
+    ║        │    Next.js · React     │  │    TypeScript · TW     │    ║
+    ║        └───────────┬────────────┘  └───────────┬────────────┘    ║
+    ║                    │                           │                 ║
+    ╚════════════════════╪═══════════════════════════╪═════════════════╝
+                         │                           │
+                         └──────────┬────────────────┘
+                                    ▼
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                                                                   ║
+    ║                    ▓▓  APPLICATION LAYER  ▓▓                      ║
+    ║                                                                   ║
+    ║        ┌────────────────────────┐  ┌────────────────────────┐    ║
+    ║        │    ◈  API GATEWAY      │  │    ◈  AUTH SERVICE     │    ║
+    ║        │    NestJS · Node.js    │  │    JWT · RBAC          │    ║
+    ║        └───────────┬────────────┘  └───────────┬────────────┘    ║
+    ║                    │                           │                 ║
+    ╚════════════════════╪═══════════════════════════╪═════════════════╝
+                         │                           │
+                         └──────────┬────────────────┘
+                                    ▼
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                                                                   ║
+    ║                      ▓▓  DATA LAYER  ▓▓                           ║
+    ║                                                                   ║
+    ║        ┌────────────────────────────────────────────────────┐     ║
+    ║        │         PostgreSQL  ▸  MySQL  ▸  Prisma ORM        │     ║
+    ║        └──────────────────────────┬─────────────────────────┘     ║
+    ║                                   │                               ║
+    ╚═══════════════════════════════════╪═══════════════════════════════╝
+                                        ▼
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                                                                   ║
+    ║                     ▓▓  DEPLOYMENT LAYER  ▓▓                      ║
+    ║                                                                   ║
+    ║        ┌────────────────────────────────────────────────────┐     ║
+    ║        │       Git  ▸  Docker  ▸  CI/CD  ▸  Cloud           │     ║
+    ║        └────────────────────────────────────────────────────┘     ║
+    ║                                                                   ║
+    ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=3"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     SKILL PROGRESS MATRIX                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🌱 `CURRENTLY_LEARNING`
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32"/>
+  &nbsp; <code>[ SKILL_MATRIX ]</code>
+</h1>
+
+<br>
+
+<table width="90%">
+<tr>
+<td width="45%"><b>◈ FULL-STACK DEVELOPMENT</b></td>
+<td width="40%">
+<img src="https://progress-bar.xyz/100/?progress_color=22d3ee&background_color=0a0e27&width=340&height=14&suffix=%25"/>
+</td>
+<td align="right"><code>100%</code></td>
+</tr>
+<tr>
+<td><b>◈ BACKEND ENGINEERING</b></td>
+<td>
+<img src="https://progress-bar.xyz/90/?progress_color=8b5cf6&background_color=0a0e27&width=340&height=14&suffix=%25"/>
+</td>
+<td align="right"><code>90%</code></td>
+</tr>
+<tr>
+<td><b>◈ DATABASE DESIGN</b></td>
+<td>
+<img src="https://progress-bar.xyz/80/?progress_color=ec4899&background_color=0a0e27&width=340&height=14&suffix=%25"/>
+</td>
+<td align="right"><code>80%</code></td>
+</tr>
+<tr>
+<td><b>◈ DEVOPS & DOCKER</b></td>
+<td>
+<img src="https://progress-bar.xyz/65/?progress_color=22d3ee&background_color=0a0e27&width=340&height=14&suffix=%25"/>
+</td>
+<td align="right"><code>65%</code></td>
+</tr>
+<tr>
+<td><b>◈ MICROSERVICES</b></td>
+<td>
+<img src="https://progress-bar.xyz/55/?progress_color=8b5cf6&background_color=0a0e27&width=340&height=14&suffix=%25"/>
+</td>
+<td align="right"><code>55%</code></td>
+</tr>
+<tr>
+<td><b>◈ SYSTEM DESIGN</b></td>
+<td>
+<img src="https://progress-bar.xyz/50/?progress_color=ec4899&background_color=0a0e27&width=340&height=14&suffix=%25"/>
+</td>
+<td align="right"><code>50%</code></td>
+</tr>
+</table>
 
 </div>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=3"/>
 
-|      ⚡ **DOMAIN**      | 🔭 **FOCUS**                            | PROGRESS         |
-| :--------------------: | :-------------------------------------- | :--------------- |
-|    ☁️ **DevOps**       | Docker · CI/CD · Deployment             | `████████░░` 80% |
-|  🧩 **Microservices**  | Service-based architecture              | `██████░░░░` 60% |
-| 🏗️ **System Design**  | Scalable application architecture       | `█████░░░░░` 50% |
-|    ⚙️ **Backend**      | NestJS · REST APIs · Authentication     | `█████████░` 90% |
-|   🗄️ **Databases**    | PostgreSQL · Prisma · Database Design   | `████████░░` 80% |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      TELEMETRY · ANALYTICS                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 📊 `GITHUB_ANALYTICS`
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"/>
+  &nbsp; <code>[ TELEMETRY ]</code>
+</h1>
 
-</div>
+<br>
 
-<div align="center">
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=afrid49&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0a0e27&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&border_color=6d28d9&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=afrid49&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0B0F19&title_color=00F5FF&icon_color=A855F7&text_color=C9D1D9&border_color=1F2937"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid49&layout=compact&hide_border=true&langs_count=8&bg_color=0B0F19&title_color=00F5FF&text_color=C9D1D9&border_color=1F2937"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid49&layout=compact&hide_border=true&langs_count=8&bg_color=0a0e27&title_color=22d3ee&text_color=c9d1d9&border_color=6d28d9"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=afrid49&hide_border=true&background=0B0F19&ring=00F5FF&fire=FF2E97&currStreakLabel=00F5FF&sideLabels=A855F7&currStreakNum=FFFFFF&dates=6B7280&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=afrid49&hide_border=true&background=0a0e27&ring=22d3ee&fire=ec4899&currStreakLabel=22d3ee&sideLabels=8b5cf6&currStreakNum=ffffff&dates=6b7280&sideNums=ffffff&border=6d28d9"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=afrid49&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=afrid49&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=3"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ACTIVITY MATRIX                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🐍 `CONTRIBUTION_MATRIX`
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32"/>
+  &nbsp; <code>[ ACTIVITY_MATRIX ]</code>
+</h1>
 
-<img src="https://raw.githubusercontent.com/afrid49/afrid49/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afrid49/afrid49/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afrid49/afrid49/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/afrid49/afrid49/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=3"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      DIRECTIVE · EXPERIENCE                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🎯 `ROADMAP_2026`
-
-</div>
-
-```text
-  ┌─────────────────────────────────────────────────────────────┐
-  │                     TARGET ACQUISITION                      │
-  ├─────────────────────────────────────────────────────────────┤
-  │                                                             │
-  │  FULL-STACK DEVELOPMENT   ████████████████████  100%        │
-  │  BACKEND ENGINEERING      ██████████████████░░   90%        │
-  │  DATABASE DESIGN          ████████████████░░░░   80%        │
-  │  DEVOPS & DOCKER          █████████████░░░░░░░   65%        │
-  │  MICROSERVICES            ███████████░░░░░░░░░   55%        │
-  │  SYSTEM DESIGN            ██████████░░░░░░░░░░   50%        │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-```
-
-> *"The goal isn't to know everything.*
-> ***The goal is to keep building things that make me learn more."***
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
-
-<div align="center">
-
-# 💼 `EXPERIENCE`
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32"/>
+  &nbsp; <code>[ MISSION_LOG ]</code>
+</h1>
 
 </div>
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ▸ SOFTWARE ENGINEER INTERN                                     ║
-║     @ XR Interactive                              [ 2026 ]       ║
-║                                                                  ║
-║   Contributed to EventX — a full-stack event management          ║
-║   platform — across both frontend and backend development.       ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   FRONTEND   ──►  Next.js · React · TypeScript                   ║
-║   BACKEND    ──►  NestJS · Node.js                               ║
-║   DATABASE   ──►  PostgreSQL · Prisma                            ║
-║   API        ──►  REST APIs                                      ║
-║   SECURITY   ──►  Authentication · Authorization                 ║
-║   DEV TOOLS  ──►  Git · GitHub · Postman                         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   ◈  ROLE       ::  Software Engineer Intern                        │
+│   ◈  ORG        ::  XR Interactive                                  │
+│   ◈  TIMELINE   ::  2026                                            │
+│                                                                     │
+│   ─────────────────────────────────────────────────────────────     │
+│                                                                     │
+│   MISSION  ▸  Engineered EventX — a full-stack event management     │
+│                platform — shipping production code across both      │
+│                frontend and backend layers.                         │
+│                                                                     │
+│   ─────────────────────────────────────────────────────────────     │
+│                                                                     │
+│   STACK DEPLOYED:                                                   │
+│                                                                     │
+│     ▸ FRONTEND   ▸▸  Next.js · React · TypeScript                   │
+│     ▸ BACKEND    ▸▸  NestJS · Node.js                               │
+│     ▸ DATABASE   ▸▸  PostgreSQL · Prisma                            │
+│     ▸ API LAYER  ▸▸  REST APIs                                      │
+│     ▸ SECURITY   ▸▸  Authentication · Authorization                 │
+│     ▸ TOOLING    ▸▸  Git · GitHub · Postman                         │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:FF2E97&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:ec4899&height=3"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         CONNECT HUB                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 📫 `CONNECT`
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="32"/>
+  &nbsp; <code>[ ESTABLISH_LINK ]</code>
+</h1>
 
-### `OPEN TO INTERNSHIP & SOFTWARE DEVELOPMENT OPPORTUNITIES`
+<br>
+
+```text
+     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+     ▓                                                             ▓
+     ▓     ◈  OPEN TO INTERNSHIP & SOFTWARE ENGINEERING ROLES  ◈   ▓
+     ▓                                                             ▓
+     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <br>
 
 <a href="https://www.linkedin.com/in/md-afrid-6a388b381/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/%E2%96%B8_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/>
 </a>
+&nbsp;
 <a href="mailto:md.afrid4849@gmail.com">
-<img src="https://img.shields.io/badge/SEND_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/%E2%96%B8_SEND_A_SIGNAL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27"/>
 </a>
+&nbsp;
 <a href="https://github.com/afrid49">
-<img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/%E2%96%B8_FOLLOW_THE_BUILD-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
 </a>
 
 <br><br>
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║        ▸  B U I L D   •   L E A R N   •   G R O W  ◂             ║
-║                                                                  ║
-║              ⟨ 01000010 01010101 01001001 01001100 01000100 ⟩    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║    ▸  B U I L D   ▸   B R E A K   ▸   L E A R N   ▸   S H I P     ║
+║                                                                   ║
+║            ⟨  01000010 01010101 01001001 01001100 01000100  ⟩     ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-⭐ **If you find something useful here, drop a star — it fuels the build.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=%E2%96%B8+Thanks+for+dropping+by+the+terminal;%E2%96%B8+Star+a+repo+if+it+helped+you;%E2%96%B8+See+you+in+the+next+commit" alt="Footer"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:FF2E97,50:A855F7,75:8B5CF6,100:00F5FF&height=160&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:8b5cf6,60:6d28d9,100:0a0e27&height=160&section=footer"/>
 
 <div align="center">
 
-<sub><code>© 2026 Abu Nayem Md Arman</code> · Built with curiosity, code, and caffeine.</sub>
+<sub><code>© 2026 · Abu Nayem Md Arman · Engineered with precision · Powered by curiosity</code></sub>
 
 </div>
