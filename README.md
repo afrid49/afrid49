@@ -1,207 +1,235 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,75:0e7490,100:06b6d4&height=180&section=header&text=Abu%20Nayem%20Md%20Arman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Software%20Engineer&descAlignY=62&descSize=18&animation=fadeIn"/>
-
-# `> Hello, World!_`
-
-### 👨‍💻 Full-Stack Developer · Final Year CS Student · Software Engineer
-
-<p>
-  <a href="https://www.linkedin.com/in/md-afrid-6a388b381/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:md.afrid4849@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/afrid49">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Designing+Scalable+Backend+Systems;Turning+Ideas+Into+Real+Projects;Always+Learning+%7C+Always+Building"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=ABU%20NAYEM%20MD%20ARMAN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%20%E2%80%A2%20%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=afrid49&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
+<a href="https://github.com/afrid49">
+<img src="https://img.shields.io/badge/GitHub-afrid49-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/md-afrid-6a388b381/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:md.afrid4849@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Engineering+scalable+backend+systems;Turning+ideas+into+real+products;Learning+%E2%80%A2+Building+%E2%80%A2+Improving"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 `whoami`
+## `01` — PROFILE
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hey, I'm Arman 👋
+
+I'm a **final-year Computer Science student and Full-Stack Developer** focused on building modern, scalable, and practical software.
+
+I enjoy working across the entire development lifecycle — from designing databases and REST APIs to building responsive frontend interfaces.
+
+My current development stack revolves around:
+
+**Next.js · NestJS · TypeScript · PostgreSQL · Prisma**
+
+I'm also expanding into **DevOps, Docker, Microservices, and System Design**.
+
+</td>
+
+<td width="40%" valign="top">
+
+### CURRENT STATUS
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  Name       : Abu Nayem Md Arman                             │
-│  Role       : Full-Stack Developer / CS Student             │
-│  Education  : BSc in Computer Science                       │
-│  Location   : Dhaka, Bangladesh                             │
-│                                                              │
-│  Focus      : Full-Stack Development                         │
-│  Backend    : NestJS · Node.js · REST APIs                   │
-│  Frontend   : Next.js · React · TypeScript                   │
-│  Database   : PostgreSQL · MySQL                             │
-│                                                              │
-│  Currently  : Building · Learning · Improving                │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+🎓 Final Year
+💻 Full-Stack Development
+⚙️ Backend Engineering
+🔬 Research & Development
+🚀 Open to Opportunities
+
+Location
+└─ Bangladesh 🇧🇩
+
+Focus
+└─ Web + Backend Systems
 ```
 
-I'm a final-year Computer Science student passionate about building **clean, scalable, and practical software applications**.
-
-My main focus is **full-stack web development**, with particular interest in backend architecture, database design, REST APIs, authentication, and modern frontend development.
-
-Currently expanding my knowledge in **DevOps, Docker, Microservices, and System Design**.
-
-```text
-          BUILD  ──────►  LEARN  ──────►  IMPROVE
-            ▲                                  │
-            └────────────  REPEAT  ◄───────────┘
-```
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Tech Stack
+## `02` — TECHNOLOGY
 
-### `Languages`
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,java,python,php,cs"/>
-</p>
+### LANGUAGES
 
-### `Frontend`
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,php,cs&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css"/>
-</p>
+### FRONTEND
 
-### `Backend & Database`
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql"/>
-</p>
+### BACKEND & DATABASE
 
-### `Tools & Platforms`
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mysql,prisma&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
-</p>
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## `03` — FEATURED WORK
+
+### 🎟️ EventX
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**Full-Stack Event Management Platform**
+
+EventX is a full-stack event management platform developed during my Software Engineering internship at **XR Interactive**.
+
+The project covers both frontend and backend development with a modular architecture.
+
+**Core functionality**
+
+* 🔐 Authentication & authorization
+* 🏢 Organization management
+* 📅 Event creation and management
+* 🎫 Event registration
+* 📱 QR-based check-in
+* 👥 Participant management
+* 📜 Certificate management
+* ⭐ Event feedback
+* 🛡️ Role-based access control
+
+</td>
+
+<td width="35%" valign="top">
+
+### STACK
+
+`Next.js`
+
+`NestJS`
+
+`TypeScript`
+
+`PostgreSQL`
+
+`Prisma`
+
+`REST API`
+
+`JWT`
+
+<br>
+
+<a href="https://github.com/afrid49/EventX">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 Attention-Enhanced BiLSTM Autoencoder
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**ECG Anomaly Detection Research**
+
+A deep-learning research project focused on detecting anomalies in ECG signals using an **Attention-Enhanced BiLSTM Autoencoder**.
+
+The research has been published in **IEEE Xplore**.
+
+**Focus**
+
+* ❤️ ECG signal analysis
+* 🧠 Deep learning
+* 🔬 BiLSTM architecture
+* 🎯 Anomaly detection
+* 📊 Model evaluation
+* 📄 Research publication
+
+</td>
+
+<td width="35%" valign="top">
+
+### RESEARCH
+
+`Python`
+
+`Deep Learning`
+
+`BiLSTM`
+
+`Autoencoder`
+
+`Attention`
+
+<br>
+
+<a href="https://ieeexplore.ieee.org/document/11661859">
+<img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — OTHER PROJECTS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🎟️ EventX
+### 📚 Learning Platform
 
-**Full-Stack Event Management Platform**
+Full-stack educational platform with role-based access for teachers and students.
 
-A full-stack event management system developed during my Software Engineering internship at **XR Interactive**.
-
-### Tech
-
-`Next.js` `NestJS` `TypeScript`
-`PostgreSQL` `Prisma` `JWT`
-
-### Features
-
-* 🔐 Authentication & authorization
-* 🏢 Organization management
-* 📅 Event creation & management
-* 🎫 Event registration
-* 📱 QR-based check-in
-* 📜 Certificate management
-* ⭐ Event feedback
-* 👥 Participant management
-* 🛡️ Role-based access control
-
-<a href="https://github.com/afrid49/EventX">
-<img src="https://img.shields.io/badge/View%20Project-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧠 ECG Anomaly Detection
-
-**Published IEEE Research Project**
-
-Attention-Enhanced BiLSTM Autoencoder for ECG Anomaly Detection.
-
-### Tech
-
-`Python` `Machine Learning`
-`BiLSTM` `Autoencoder` `Deep Learning`
-
-### Focus
-
-* 🧠 Deep learning
-* ❤️ ECG signal analysis
-* 📊 Anomaly detection
-* 🔬 Research & experimentation
-* 📄 IEEE publication
-
-<a href="https://ieeexplore.ieee.org/document/11661859">
-<img src="https://img.shields.io/badge/IEEE%20Publication-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📚 Learning Platform
-
-**Full-Stack Educational Application**
-
-A web-based learning platform designed for teachers and students with role-based access.
-
-### Tech
+**Stack**
 
 `NestJS` `Next.js` `PostgreSQL` `JWT`
 
-### Features
+**Includes**
 
-* 🔐 Authentication
-* 👨‍🏫 Teacher management
-* 🎓 Student management
-* 📚 Content management
-* 🛡️ Protected routes
-* 🗄️ Database integration
+Authentication · Class Management · Content Management · Protected Routes
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚌 Bus Ticket Management
+### 🚌 Bus Ticket Management
 
-**Java OOP Project**
+Java-based console application demonstrating object-oriented programming and file handling.
 
-Console-based ticket booking and management system built around object-oriented programming principles.
-
-### Tech
+**Stack**
 
 `Java` `OOP` `File I/O`
 
-### Features
-
-* 🎫 Ticket booking
-* 💺 Seat management
-* 🚌 Route management
-* ❌ Cancellation
-* 📄 Ticket generation
-
 <a href="https://github.com/afrid49/bus-ticket-management-system-Java-project">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+Repository →
 </a>
 
 </td>
@@ -212,38 +240,32 @@ Console-based ticket booking and management system built around object-oriented 
 
 <td width="50%" valign="top">
 
-## 🤖 ML Anomaly Detection
+### 🤖 ML Anomaly Detection
 
-**Machine Learning Project**
+Machine-learning project for detecting anomalies and analyzing unusual data patterns.
 
-Machine learning project focused on detecting anomalies and analyzing unusual patterns in data.
+**Stack**
 
-### Tech
-
-`Python` `Scikit-learn`
-`Pandas` `NumPy`
+`Python` `Scikit-learn` `Pandas` `NumPy`
 
 <a href="https://github.com/afrid49/ML_anomoly_machine">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+Repository →
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔊 Audio Amplifier Device
+### 🔊 Audio Amplifier Device
 
-**Hardware & Circuit Project**
+Hardware project involving audio amplifier circuit design, signal processing, and simulation.
 
-Designed and simulated an audio amplifier circuit with a focus on signal processing and circuit analysis.
+**Focus**
 
-### Focus
-
-`Circuit Design` `Signal Processing`
-`Simulation Tools`
+`Circuit Design` `Signal Processing` `Simulation`
 
 <a href="https://github.com/afrid49/Audio-Amplifier-Device-project">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+Repository →
 </a>
 
 </td>
@@ -253,147 +275,146 @@ Designed and simulated an audio amplifier circuit with a focus on signal process
 
 ---
 
-# 🧩 What I Build
+## `05` — EXPERIENCE
 
-<div align="center">
+### Software Engineer Intern · XR Interactive
+
+**2026**
+
+Worked as a Software Engineer Intern with a focus on **full-stack application development**, contributing to the EventX platform.
 
 ```text
-┌──────────────────┐    ┌──────────────────┐
-│   🌐 WEB APPS   │    │   ⚙️ BACKENDS    │
-│                  │    │                  │
-│ Next.js / React  │    │ NestJS / Node.js │
-└────────┬─────────┘    └────────┬─────────┘
-         │                       │
-         └──────────┬────────────┘
-                    ▼
-          ┌──────────────────┐
-          │   🗄️ DATABASES   │
-          │                  │
-          │ PostgreSQL/MySQL │
-          └────────┬─────────┘
-                   │
-                   ▼
-          ┌──────────────────┐
-          │    🚀 DEPLOY     │
-          │                  │
-          │ Git · Docker     │
-          └──────────────────┘
+Frontend        Next.js · React · TypeScript
+Backend         NestJS · Node.js
+Database        PostgreSQL · Prisma
+Architecture    REST API · Modular Backend
+Security        Authentication · Authorization
+Tools           Git · GitHub · Postman
 ```
 
+---
+
+## `06` — CURRENTLY EXPLORING
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☁️
+
+**DevOps**
+
+Docker
+CI/CD
+Deployment
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+
+**Microservices**
+
+Distributed Systems
+Service Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**System Design**
+
+Scalability
+API Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Backend**
+
+NestJS
+PostgreSQL
+Prisma
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-# 🌱 Currently Learning
+## `07` — GITHUB
 
 <div align="center">
 
-|         ⚡ Area        | 🔭 Focus                              |
-| :-------------------: | :------------------------------------ |
-|     ☁️ **DevOps**     | Docker · CI/CD · Deployment           |
-|  🧩 **Microservices** | Service-based architecture            |
-| 🏗️ **System Design** | Scalable application architecture     |
-|     ⚙️ **Backend**    | NestJS · REST APIs · Authentication   |
-|   🗄️ **Databases**   | PostgreSQL · Prisma · Database Design |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=afrid49&show_icons=true&hide_border=true&theme=github_dark&bg_color=020617&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0&count_private=true"/>
 
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=afrid49&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid49&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid49&layout=compact&hide_border=true&theme=github_dark&bg_color=020617&title_color=22d3ee&text_color=e2e8f0&langs_count=8"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=afrid49&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=afrid49&hide_border=true&background=020617&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee&sideLabels=e2e8f0&dates=94a3b8"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Matrix
+## `08` — CONTRIBUTIONS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/afrid49/afrid49/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/afrid49/afrid49/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Roadmap
-
-```text
-FULL-STACK DEVELOPMENT   ████████████████████  100%
-BACKEND ENGINEERING      ██████████████████░░   90%
-DATABASE DESIGN          ████████████████░░░░   80%
-DEVOPS & DOCKER          █████████████░░░░░░░   65%
-MICROSERVICES             ███████████░░░░░░░░░   55%
-SYSTEM DESIGN             ██████████░░░░░░░░░░   50%
-```
-
-> The goal isn't to know everything.
-> **The goal is to keep building things that make me learn more.**
-
----
-
-# 💼 Experience
-
-### Software Engineer Intern — XR Interactive
-
-`2026`
-
-Worked on **EventX**, a full-stack event management platform, contributing across both frontend and backend development.
-
-```text
-Frontend      → Next.js · React · TypeScript
-Backend       → NestJS · Node.js
-Database      → PostgreSQL · Prisma
-API           → REST APIs
-Security      → Authentication · Authorization
-Development   → Git · GitHub · Postman
-```
-
----
-
-# 📫 Let's Connect
+## `09` — MINDSET
 
 <div align="center">
 
-### `OPEN TO INTERNSHIP & SOFTWARE DEVELOPMENT OPPORTUNITIES`
+> **Build things. Break things. Learn why. Build better.**
+
+<br>
+
+`CODE`  →  `CREATE`  →  `LEARN`  →  `ITERATE`
+
+</div>
+
+---
+
+## `10` — LET'S CONNECT
+
+<div align="center">
+
+### Open to internships & software development opportunities.
 
 <br>
 
 <a href="https://www.linkedin.com/in/md-afrid-6a388b381/">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:md.afrid4849@gmail.com">
-<img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/afrid49">
-<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║          BUILD  •  LEARN  •  CREATE  •  GROW           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-⭐ **If you find something useful here, feel free to star the repository.**
+<img src="https://komarev.com/ghpvc/?username=afrid49&style=flat-square&color=06b6d4&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -401,8 +422,8 @@ Development   → Git · GitHub · Postman
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0e7490,100:020617&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0e7490,100:06b6d4&height=120&section=footer"/>
 
-<sub>© 2026 Abu Nayem Md Arman · Built with curiosity, code, and caffeine.</sub>
+<sub>© 2026 Abu Nayem Md Arman · Designed with code & curiosity.</sub>
 
 </div>
