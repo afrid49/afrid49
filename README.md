@@ -244,10 +244,10 @@ Hardware project focused on designing and implementing an audio amplification sy
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=600&color=00F0FF&width=700&height=45&repeat=false&vCenter=true&lines=%3E+what+i+work+with" alt="what i work with" />
 
 ```text
-Languages       →  C · C++ · C# · Java · JavaScript · TypeScript · Python · PHP · SQL
-Frontend        →  Next.js · React · HTML · CSS · Three.js
+Languages       →  C++ · C# · Java · JavaScript · TypeScript · PHP
+Frontend        →  Next.js · React · HTML5 · CSS3
 Backend         →  NestJS · Node.js · .NET · REST APIs
-Database        →  PostgreSQL · MySQL · SQL Server · LocalDB · Prisma
+Database        →  PostgreSQL · MySQL · SQL Server · LocalDB · Prisma · Oracle
 Authentication  →  JWT · RBAC
 ML / Data       →  Python · NumPy · Pandas · Scikit-learn · BiLSTM · Autoencoders
 Desktop         →  C# · .NET · Windows Forms
